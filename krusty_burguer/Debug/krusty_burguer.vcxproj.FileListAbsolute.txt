@@ -1,0 +1,49 @@
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.AssemblyReference.cache
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krustyburguer.login.resources
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.GenerateResource.cache
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krustyburguer.principal.resources
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krustyburguer.menuOrden.resources
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krustyburguer.bebidas.resources
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krustyburguer.menu.resources
+C:\Users\josue\source\repos\krusty_burguer\krusty_burguer\Debug\krustyburguer.platillos.resources
+C:\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.AssemblyReference.cache
+C:\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.SuggestedBindingRedirects.cache
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.login.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.menu.resources
+C:\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.GenerateResource.cache
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.AssemblyReference.cache
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krustyburguer.login.resources
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krustyburguer.menu.resources
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.GenerateResource.cache
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo1.resources
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo2.resources
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo3.resources
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krustyburguer.orden.resources
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo4.resources
+C:\Users\josue\OneDrive\Escritorio\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo5.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo1.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo2.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo3.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo4.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo5.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.orden.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.acerca.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.metodoEfectivo.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.metodoTarjeta.resources
+C:\krusty_burguer\krusty_burguer\Debug\krustyburguer.facturaEfectivo.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.AssemblyReference.cache
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.acerca.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo1.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo2.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo3.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo4.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.combo5.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.facturaEfectivo.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.login.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.menu.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.metodoEfectivo.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.metodoTarjeta.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krustyburguer.orden.resources
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\Debug\krusty_burguer.vcxproj.GenerateResource.cache

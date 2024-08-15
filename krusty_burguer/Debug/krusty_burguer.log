@@ -1,0 +1,9 @@
+﻿  login.cpp
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\metodoEfectivo.h(529,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "login.cpp")
+  
+D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\krusty_burguer\menu.h(648,39): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "login.cpp")
+  
+  acerca.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  krusty_burguer.vcxproj -> D:\ARCHIVOS 2023\UMG\PROYECTOS\krusty_burguer\krusty_burguer\Debug\krusty_burguer.exe

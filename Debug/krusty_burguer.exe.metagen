@@ -1,0 +1,130 @@
+  krustyburguer.acerca.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.combo1.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.combo2.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.combo3.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.combo4.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.combo5.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.facturaEfectivo.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.login.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.menu.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.metodoEfectivo.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.metodoTarjeta.resources - Embedded, ContainedInManifestFile, 
+  krustyburguer.orden.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly krusty_burguer, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class krustyburguer.acerca: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class krustyburguer.combo1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Panel panel1 : Public
+    System.Windows.Forms.Label lblDescripcion : Public
+    System.Windows.Forms.ComboBox cbBebida : Public
+    System.Windows.Forms.TextBox txtOrden : Public
+    System.Windows.Forms.TextBox txtPrecio : Public
+    System.Windows.Forms.TextBox txtCodCombo : Public
+Class krustyburguer.combo2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox txtCodCombo : Public
+    System.Windows.Forms.TextBox txtOrden : Public
+    System.Windows.Forms.Panel panel1 : Public
+    System.Windows.Forms.TextBox txtPrecio : Public
+    System.Windows.Forms.ComboBox cbBebida : Public
+    System.Windows.Forms.Label lblDescripcion : Public
+Class krustyburguer.combo3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox txtCodCombo : Public
+    System.Windows.Forms.TextBox txtPrecio : Public
+    System.Windows.Forms.TextBox txtOrden : Public
+    System.Windows.Forms.ComboBox cbBebida : Public
+    System.Windows.Forms.Label lblDescripcion : Public
+    System.Windows.Forms.Panel panel1 : Public
+    System.Windows.Forms.ComboBox cbPostre : Public
+Class krustyburguer.combo31: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class krustyburguer.combo4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ComboBox cbPostre : Public
+    System.Windows.Forms.TextBox txtCodCombo : Public
+    System.Windows.Forms.TextBox txtPrecio : Public
+    System.Windows.Forms.TextBox txtOrden : Public
+    System.Windows.Forms.ComboBox cbBebida : Public
+    System.Windows.Forms.Label lblDescripcion : Public
+    System.Windows.Forms.Panel panel1 : Public
+Class krustyburguer.combo5: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ComboBox cbPostre : Public
+    System.Windows.Forms.TextBox txtCodCombo : Public
+    System.Windows.Forms.TextBox txtPrecio : Public
+    System.Windows.Forms.TextBox txtOrden : Public
+    System.Windows.Forms.ComboBox cbBebida : Public
+    System.Windows.Forms.Label lblDescripcion : Public
+    System.Windows.Forms.Panel panel1 : Public
+Class krustyburguer.facturaEfectivo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.ListView listView1 : Public
+    System.Windows.Forms.Label lblNoFactura : Public
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.Label lblDireFactura : Public
+    System.Windows.Forms.Label lblFechaFactura : Public
+    System.Windows.Forms.Label lblNomFactura : Public
+    System.Windows.Forms.Label lblnitFactura : Public
+    System.Windows.Forms.Label lblTotalFactura : Public
+    System.Windows.Forms.Label lblCambio : Public
+    System.Windows.Forms.Label lblEfectivoCliente : Public
+    System.Windows.Forms.Label label3 : Public
+    System.Windows.Forms.Label label2 : Public
+Class krustyburguer.metodoEfectivo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label lblNordenEfectivo : Public
+    System.Windows.Forms.Label lblTotalFactura : Public
+    System.Windows.Forms.Label lblNoFactura : Public
+    System.Windows.Forms.Label lblFechaFactura : Public
+    System.Windows.Forms.Label lblFe : Public
+    System.Windows.Forms.Label lblNomCliente : Public
+Class krustyburguer.menu: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Panel panel_contenedor : Public
+    System.Windows.Forms.Label lblCliente : Public
+    System.Windows.Forms.Label lblNoOrden : Public
+    System.Windows.Forms.Label lblFecha : Public
+    System.Windows.Forms.Label lblNorden : Public
+Class krustyburguer.orden: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class krustyburguer.login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class krustyburguer.metodoTarjeta: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

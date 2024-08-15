@@ -81,6 +81,8 @@
     </ClCompile>
     <Link>
       <AdditionalDependencies />
+      <SubSystem>Windows</SubSystem>
+      <EntryPointSymbol>main</EntryPointSymbol>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -118,12 +120,97 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MyForm.cpp" />
+    <ClCompile Include="acerca.cpp" />
+    <ClCompile Include="combo1.cpp" />
+    <ClCompile Include="combo2.cpp" />
+    <ClCompile Include="combo3.cpp" />
+    <ClCompile Include="combo31.cpp" />
+    <ClCompile Include="combo4.cpp" />
+    <ClCompile Include="combo5.cpp" />
+    <ClCompile Include="facturaEfectivo.cpp" />
+    <ClCompile Include="login.cpp" />
+    <ClCompile Include="menu.cpp" />
+    <ClCompile Include="metodoEfectivo.cpp" />
+    <ClCompile Include="metodoTarjeta.cpp" />
+    <ClCompile Include="orden.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MyForm.h">
+    <ClInclude Include="acerca.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="combo1.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="combo2.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="combo3.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="combo4.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="combo5.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Conexion.h" />
+    <ClInclude Include="facturaEfectivo.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="listadoOrden.h" />
+    <ClInclude Include="login.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="metodoEfectivo.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="metodoTarjeta.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="orden.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="acerca.resx">
+      <DependentUpon>acerca.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="combo1.resx">
+      <DependentUpon>combo1.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="combo2.resx">
+      <DependentUpon>combo2.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="combo3.resx">
+      <DependentUpon>combo3.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="combo4.resx">
+      <DependentUpon>combo4.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="combo5.resx">
+      <DependentUpon>combo5.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facturaEfectivo.resx">
+      <DependentUpon>facturaEfectivo.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="metodoEfectivo.resx">
+      <DependentUpon>metodoEfectivo.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="metodoTarjeta.resx">
+      <DependentUpon>metodoTarjeta.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orden.resx">
+      <DependentUpon>orden.h</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
